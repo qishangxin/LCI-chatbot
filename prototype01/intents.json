@@ -1,0 +1,31 @@
+{ "intents": [
+  {"tag": "greetings",
+   "patterns": ["Hi", "Hallo", "Heyho", "Hello there", "Moin", "Servus", "Hello again", "Tag", "Tach", "Guten Tag",
+                "Guten Morgen", "Guten Abend", "Was geht", "Hallöchen", "Moinsen", "Grüß dich", "Grüß Sie", "Mahlzeit"],
+   "responses": ["Hallo! Ich kann helfen, einen Heiligen in einer Darstellung zu identifizieren! \nZähle einfach Eigenschaften auf, welche dir auffallen!"]
+  },
+  {"tag": "goodbye",
+   "patterns": ["Ciao", "tschau", "tschüss", "Wiedersehen", "wiederschaun", "pfiat di", "bis dann", "machs gut",
+                "machen sie es gut", "auf wiederhören", "gute nacht"],
+   "responses": ["Auf Wiedersehen! Ich hoffe, dass ich helfen konnte!"]
+  },
+  {"tag": "thanks",
+   "patterns": ["danke", "dankeschön", "merci", "thanks", "vielen dank"],
+   "responses": ["Bitteschön", "Kein Problem!", "Gern geschehen!"]
+  },
+  {"tag": "help",
+   "patterns": ["hilfe", "help", "wie funktioniert das?", "wie geht das?", "was ist zu tun?"],
+   "responses": ["Ich kann helfen, einen Heiligen aus einer Darstellung zu identifizieren! \nZähle einfach Merkmale auf, welche dir auffallen!"]
+  },
+  {"tag": "joke",
+   "patterns": ["kennst du witze?", "erzähl mir eine witz", "joke"],
+   "responses": ["Wer erfand das Deo?\nJesus, er brach das Brot und verteilte es unter den Armen!"]
+  },
+  {"tag": "noanswer",
+   "patterns": [],
+   "responses": ["Das verstehe ich nicht!", "Ich brauche mehr Informationen, um die antworten zu können."]
+  },
+  {"tag": "howareyou",
+   "patterns": ["wie geht's?", "was geht?", "wie geht es dir?", "geht es dir gut?", "na, wie gehts?"],
+   "responses": ["Mir geht es gut! Ich hoffe dir auch!"]}
+]}
