@@ -7,7 +7,7 @@ LCI(Lexicon of Christian Iconography)-chatbot project: a chatbot that suggests t
 * [Description](#description)
 * [Data](*data)
 * [Modules](#modules)
-* [Others](#others)
+
 
 ## Setup
 
