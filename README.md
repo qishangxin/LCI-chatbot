@@ -34,7 +34,7 @@ Run [main.hs](#https://github.com/qishangxin/LCI-chatbot/blob/main/LCISearch/app
 ## Description
 This project aims at developing a chatbot that helps users to recognize the christian icons they see based on natural language process methods. After receiving the user's description of the icon, our chatbot extract the features from the input and finds the saints with the highest number corresponding features from the large amount of LCI(Lexicon of Christian Iconography) data, which contains more than 4000 chiristian icons. In the end we achieved high accuracy on recognizing the text data using NLP methods and the chatbot can suggest the correct christian icon for over 50% possibility.
 
-![Chatbot pipeline](./image/Chatbot_pipeline.png)
+![Chatbot pipeline](./image/Chatbot%20pipeline.png)
 
 
 ## Data
