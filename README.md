@@ -42,18 +42,20 @@ This project aims at developing a chatbot that helps users to recognize the chri
 ## Modules
 The project owns the following modules:
 
-* [preprocessing](#https://github.com/qishangxin/LCI-chatbot/tree/main/preprocessing) finds the names of the saints and the description of the saints following their names from the text data.
-* [prototype](#https://github.com/qishangxin/LCI-chatbot/tree/main/prototype01) is the development and training process of the chatbot which allows it to work in the German language and gives it different functions, for example differentiating if the user wants to have a daily conversation or to search for a christian icon and answering correspondingly.
-* [LCI search](#https://github.com/qishangxin/LCI-chatbot/tree/main/LCISearch) picks out the key words from the user's input and finds the saints with such features.
+* [Preprocessing](#Preprocessing) 
+* [Chatbot development](#Chatbot-development) 
+* [LCI search](#LCI-search) 
 
 
-### 
+### Preprocessing
+Preprocessing finds the names of the saints and the description of the saints following their names from the text data.
 
 
-### 
+### Chatbot development
+This part is the development and training process of the chatbot which allows it to work in the German language and gives it different functions, for example differentiating if the user wants to have a daily conversation or to search for a christian icon and answering correspondingly.
 
-
-## Others
+### LCI search
+The LCI search function picks out the key words from the user's input and finds the saints with such features.
 
 
 [(Back to top)](#table-of-contents)
