@@ -36,7 +36,7 @@ This project aims at developing a chatbot that helps users to recognize the chri
 
 
 ## Data
-[row data](#https://github.com/qishangxin/LCI-chatbot/blob/main/preprocessing/raw_data.txt) is the original text data extracted from a pdf file containing the information of over 4000 christian icons.
+[row data](https://github.com/qishangxin/LCI-chatbot/blob/main/preprocessing/raw_data.txt) is the original text data extracted from a pdf file containing the information of over 4000 christian icons.
 
 
 ## Modules
