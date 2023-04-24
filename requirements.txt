@@ -1,0 +1,6 @@
+numpy==1.18.5
+nltk==3.6.2
+HanTa==0.2.0
+tensorflow==2.3.2
+tqdm==4.56.0
+pdfminer==20191125
